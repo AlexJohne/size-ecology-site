@@ -27,9 +27,11 @@ FishNutrients helps address this uncertainty by providing open-source nutrient c
 
 For a brief introduction to the international collaboration that developed this tool, check out this short video:
 
-![](https://youtu.be/5X5JOrXacuc)
 
-or a more in-depth introduction is available via the launch webinar
-![](https://youtu.be/1g8yR9m1KZE)
+[!]({https://youtu.be/5X5JOrXacuc} "FishNutrients: launching nutrient data on fish in FishBase")
+
+or a more in-depth introduction is available via the launch webinar:
+
+![]({https://youtu.be/1g8yR9m1KZE} "FishNutrients - Launching and Innovative New Tool to Help Address Malnutrition")
 
 The particularly exciting aspect of this tool is the potential for expanding the scope of exciting research into aquatic foods and their capacity to support nutrition security.
