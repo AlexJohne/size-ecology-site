@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: RA & Honours Student
+role: PhD student
 # Organizations/Affiliations
 organizations:
 - name: 
@@ -28,7 +28,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Alexandra_Johne
-
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2816-7983
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -47,5 +49,5 @@ user_groups:
 
 ---
 
-Originally from Munich, Germany, Alex moved to Hobart about 3 years ago to study Marine Biology at IMAS. Since graduating in December she has been working as a research assistant for the lab group and was one of the main contributors to the website. She will be starting her Honours project in July which will focus on applying a simple size spectrum model to a recirculating aquaculture system (RAS).
+Originally from Munich, Germany, Alex moved to Hobart about 5 and a half years ago to study Marine Biology at IMAS. She joined the Size Ecology Lab in the third year of her Bachelor's degree at IMAS, and hasn't left since. In the meantime, she has received a Bachelor of Marine Science with Honours for her project on using an integral projection model (IPM) to explore individual growth variability in farmed Chinook salmon in response to different feed ration levels, supervised by, amongst others, Julia Blanchard. Prior to starting her PhD with Julia in December 2020, she worked as a research assistant for the Blue Economy Cooperative Research Centre, collating information on the potential challenges of rearing salmonids in offshore aquaculture around Australia and New Zealand. In her PhD research, Alex will attempt to explore inter- and intra-individual variability in feed efficiency, growth trajectories and nutrient outputs of farmed salmon under different climate change and feed composition scenarios.
 

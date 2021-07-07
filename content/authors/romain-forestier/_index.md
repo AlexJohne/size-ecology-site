@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: IT/Mizer specialist
 # Organizations/Affiliations
 organizations:
 - name: 
@@ -57,5 +57,8 @@ user_groups:
 
 After receiving his Bachelor’s degree in Biology of Organisms, Populations and Ecosystems from the Université d’Auvergne Clermont-Ferrand, France, Romain went on and completed his Master’s in Biology and Marine Ecosystems in Marseille, France, with an emphasis on mathematics and modelling.
 
-He is currently a 3rd year PhD student at the Institute for Marine and Antarctic Studies (IMAS). His research aims to model biodiversity as a complex adaptive system. To do so, his PhD focuses on using body size theory and eco-evolutionary dynamics to model how fish communities can adapt to rapid change in their environment such as over-fishing or global warming.
+He finished his PhD in April 2021 at the Institute for Marine and Antarctic Studies (IMAS). His research aimed to model biodiversity as a complex adaptive system. To do so, his PhD focused on using eco-evolutionary dynamics to let adaptive trend emerge in models. As a result, the mizerEvolution R package was created, an extension of the size spectrum model R package Mizer, which allows to link eco-evolutionary dynamics to body size theory. Such a model helped explore how fish communities can adapt to rapid change in their environment such as over-fishing or global warming but also how life history strategies such as various types of feeding can emerge depending on the environment.
+
+Romain is now working as a computer specialist at IMAS, producing teaching materials to encourage and help people to use size-based theory in their models.
+
 
