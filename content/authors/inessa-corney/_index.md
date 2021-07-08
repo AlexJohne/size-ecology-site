@@ -49,4 +49,4 @@ user_groups:
 
 ---
 
-Inessa grew up here in Hobart Tasmania. She completed her Bachelor of Marine and Antarctic Science at the University of Tasmania (UTAS) in 2019 and is currently in her second year of a Masters of Marine and Antarctic Science. Her research this year is focussing on the size distributions of zooplankton in the Southern ocean along gradients of primary productivity and temperature.
+Inessa grew up here in Hobart, Tasmania. She completed her Bachelor of Marine and Antarctic Science at the University of Tasmania (UTAS) in 2019 and is currently in her second year of a Masters of Marine and Antarctic Science. Her research this year is focussing on the size distributions of zooplankton in the Southern Ocean along gradients of primary productivity and temperature.
