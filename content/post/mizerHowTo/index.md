@@ -27,7 +27,7 @@ To teach you how to use size spectrum models in your everyday life, four scienti
 
 To launch the package, we trialled the course material with the **SPECTRE** audience, a reading group for people passionate about size spectrum theory. If you wish to join said group, do not hesitate to contact Maria Grigoratou ([mgrigoratou@gmri.org](mgrigoratou@gmri.org)). **SPECTRE** is a global size spectrum community and during our live sessions here in Tasmania we attracted eager students from all over the world, from the West coast of the USA to India. People brought their own data sets to apply the *mizer* framework to with a bit of help from our tutorials.
 
-The students skilfully adapted what they had learned in the *mizer* tutorials to their own data and, after merely two weeks, were presenting their results using our framework with great success. I was really impressed by such progress and it gave me hope for the future of our *mizerHowTo* package. :smile:
+The students skilfully adapted what they had learned in the *mizer* tutorials to their own data and, after merely two weeks, were presenting their results using our framework with great success. I was really impressed by such progress and it gave me hope for the future of our *mizerHowTo* package.
 
 If you would like to find out more, we will be presenting at the annual World Fisheries Congress in Adelaide in September ([register here](https://wfc2021.com.au)). Or feel free to check out the *mizerHowTo* tutorial on [github](https://github.com/sizespectrum/mizerHowTo.git).
 

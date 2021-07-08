@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Fellow (CSIRO)
+role: Research Fellow
 # Organizations/Affiliations
 organizations:
 - name: 
