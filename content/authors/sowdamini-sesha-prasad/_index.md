@@ -1,17 +1,17 @@
 ---
 # Display name
-name: Kirsty Pinnell
-weight: 45
+name: Sowdamini Sesha Prasad
+weight: 43
 
 # Username (this should match the folder name)
 authors:
-- kirsty-pinnel
+- sowdamini-sesha-prasad
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Honours student
+role: PhD student
 # Organizations/Affiliations
 organizations:
 - name: 
@@ -25,12 +25,19 @@ organizations:
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/KirstyPinnell
+  link: https://twitter.com/SowdaminiSP
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.au/citations?hl=en&user=agkfRtgAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Sowdamini-Sesha-Prasad
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0003-2621-8588
-
-
+  link: https://orcid.org/0000-0002-6422-2214
+- icon: github
+  icon_pack: fab
+  link: https://github.com/SowdaminiSP
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -49,4 +56,7 @@ user_groups:
 
 ---
 
-Kirsty is from the Gold Coast, Australia and moved to Hobart in 2018 to study Marine Biology at IMAS. She completed her degree in Marine and Antarctic science (BA, 2020), and is currently undertaking an Honours research year. This focuses on modelling coral reefs to understand the nutrient potential for fisheries. She has also been working as a research assistant for the lab group.  
+Sowdamini worked on human-wildlife conflict and terrestrial ecology in southern India before moving to Australia in 2016 to study a master’s degree in Marine and Antarctic science at UTAS. Currently, she is a PhD candidate at UTAS where she is modelling the impacts of stoichiometric changes in fish and food webs.  She is interested in integrating land-sea interactions into ecosystem modelling. 
+
+Sowdamini is a passionate advocate for climate justice and highlighting indigenous perspectives in ecosystem management and conservation. 
+
